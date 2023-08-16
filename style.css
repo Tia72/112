@@ -1,0 +1,49 @@
+body
+{
+  color: white;
+  background: #ad8dff;
+}
+span
+{
+  font-size: 30px;
+}
+#cam , #dp
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#en1 , #en2  
+{
+  color: black;
+  font-size: 40px;
+}
+
+#e1 , #e2
+{
+  font-size:48px;
+}
+
+label
+{
+  font-size: 15;
+  background-color: aquamarine;
+  color: tomato;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.head
+{
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  background-color: aquamarine;
+  color: tomato;
+}
+
+#p_e , #c_i
+{
+  color: tomato;
+  background-color: aquamarine;
+}
